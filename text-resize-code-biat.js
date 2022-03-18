@@ -1,6 +1,6 @@
 // JavaScript source code
 $(document).ready(function () {
-    var resize = new Array('.middle-p');
+    var resize = new Array('p');
     //resize = resize.join(',');
 
     //resets the font size when "reset" is clicked
